@@ -7,3 +7,4 @@
 |-|----|-----|
 |1|NGFW|Next-generation firewall|
 |2|IPS|Intrusion Prevention System|
+|3|DPI|Deep packet inspection|
