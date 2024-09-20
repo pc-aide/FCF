@@ -6,3 +6,4 @@
 |n|name|desc.|
 |-|----|-----|
 |1|NGFW|Next-generation firewall|
+|2|IPS|Intrusion Prevention System|
