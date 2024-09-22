@@ -15,3 +15,4 @@
 |8|WAF|Web-Application Firewalls|
 |9|RSH|Remote Shell|
 |10|DDoS|Distributed Denial of Service|
+|11|DLP|Data Loss Prevention|
