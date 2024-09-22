@@ -10,3 +10,4 @@
 |3|3rd generation firewall||<img src="https://i.imgur.com/qC8WFBN.png">|
 |4|Statefull firewall||<img src="https://i.imgur.com/bbnfI5p.png">|
 |5|Stateless firewall||<img src="https://i.imgur.com/9uneQtX.png">|
+|6|SQJ injection|
