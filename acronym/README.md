@@ -13,3 +13,4 @@
 |6|MIS|Management Information Systems|
 |7|FCF|Fortinet Certified Fundamentals|
 |8|WAF|Web-Application Firewalls|
+|9|RSH|Remote Shell|
