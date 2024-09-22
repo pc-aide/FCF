@@ -17,3 +17,4 @@
 |10|DDoS|Distributed Denial of Service|
 |11|DLP|Data Loss Prevention|
 |12|SEG|Secure Email Gateway|
+|13|SPF|Sender Policy Framework|
