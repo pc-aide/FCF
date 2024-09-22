@@ -12,3 +12,4 @@
 |5|ByoD|Bring your own device|
 |6|MIS|Management Information Systems|
 |7|FCF|Fortinet Certified Fundamentals|
+|8|WAF|Web-Application Firewalls|
