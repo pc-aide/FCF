@@ -18,3 +18,4 @@
 |11|SD-WAN||<img src="https://i.imgur.com/Dvkre2T.png"><br/>EVE - Topology SD-WAN:<br/><img src="https://i.imgur.com/bvg22gF.png">|
 |12|ZTNA||<img src="https://i.imgur.com/wvO4Yr3.png"><br/>How Does Fortinet ZTNA work?:<br/><img src="https://i.imgur.com/41PxIfO.png">|
 |13|Colonial Pipeline Ransomware Attack|
+|14|Categories of hackers|White hat<br/>Black hat<br/>Grey hat<br/>Blue hat|<img src="https://i.imgur.com/dsaAut7.png">|
