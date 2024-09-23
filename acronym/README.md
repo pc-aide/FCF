@@ -31,3 +31,4 @@
 |24|SIEM|security information and event management|
 |25|SOC|Security Operations Center
 |26|SD-WAN|Software-Defined Wide Area Network |
+|27|ZTNA|Zero Trust Network Access|
