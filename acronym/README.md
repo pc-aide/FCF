@@ -22,3 +22,4 @@
 |15|RBL|Real-time Blackhole List|
 |16|AES|Advanced Encryption Standard
 |17|PoLP|Principle of least privilege|
+|18|EDR|Endpoint Detection & Response|
