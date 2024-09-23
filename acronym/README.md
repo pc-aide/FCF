@@ -32,3 +32,4 @@
 |25|SOC|Security Operations Center
 |26|SD-WAN|Software-Defined Wide Area Network |
 |27|ZTNA|Zero Trust Network Access|
+|28|IDaaS|Identity-as-a-Service|
