@@ -28,3 +28,4 @@
 |21|SED|Self-Encrypting Drive|
 |22|EPP|Endpoint Protection Platform|
 |23|SOAR|Security Orchestration Automation and Response|
+|24|SIEM|security information and event management|
