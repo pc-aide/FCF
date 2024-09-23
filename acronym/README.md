@@ -26,3 +26,4 @@
 |19|IDS|Intrusion Detection System|
 |20|FDE|Full Disk Encryption|
 |21|SED|Self-Encrypting Drive|
+|22|EPP|Endpoint Protection Platform|
