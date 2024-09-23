@@ -34,3 +34,4 @@
 |27|ZTNA|Zero Trust Network Access|
 |28|IDaaS|Identity-as-a-Service|
 |29|SASE|Secure Access Service Edge|
+|30|CVSS|Common Vulnerability Scoring System|
