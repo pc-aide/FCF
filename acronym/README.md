@@ -33,3 +33,4 @@
 |26|SD-WAN|Software-Defined Wide Area Network |
 |27|ZTNA|Zero Trust Network Access|
 |28|IDaaS|Identity-as-a-Service|
+|29|SASE|Secure Access Service Edge|
