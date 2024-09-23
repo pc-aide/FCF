@@ -30,3 +30,4 @@
 |23|SOAR|Security Orchestration Automation and Response|
 |24|SIEM|security information and event management|
 |25|SOC|Security Operations Center
+|26|SD-WAN|Software-Defined Wide Area Network |
