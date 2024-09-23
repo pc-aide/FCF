@@ -20,3 +20,4 @@
 |13|SPF|Sender Policy Framework|
 |14|NSE|Network Security Expert|
 |15|RBL|Real-time Blackhole List|
+|16|AES|Advanced Encryption Standard
