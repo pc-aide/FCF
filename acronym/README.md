@@ -23,3 +23,4 @@
 |16|AES|Advanced Encryption Standard
 |17|PoLP|Principle of least privilege|
 |18|EDR|Endpoint Detection & Response|
+|19|IDS|Intrusion Detection System|
