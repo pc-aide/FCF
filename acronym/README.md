@@ -36,3 +36,4 @@
 |29|SASE|Secure Access Service Edge|
 |30|CVSS|Common Vulnerability Scoring System|
 |31|IoC|Indicators of Compromise|
+|32|PUP|potentially unwanted program|
