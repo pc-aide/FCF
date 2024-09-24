@@ -25,4 +25,5 @@
 |18|Banner Grabbing|
 |19|Metasploit|
 |20|nmap|
-|21|Weaponization|1. maltegoweb app<br/>2. cain & abel<br/>3. Veil Framework<br/>4, exploit-db<br/>5. wapiti<br/>6. fratrat|
+|21|Weaponization|1. maltegoweb app<br/>2. cain & abel<br/>3. Veil Framework<br/>4, exploit-db<br/>5. wapiti<br/>6. fratrat<br/>|
+|22|Exploitation|1. SQJ injection<br/>2. buffer overflow<br/>3. javascript hijack
