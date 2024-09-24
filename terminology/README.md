@@ -38,3 +38,5 @@
 |31|keylogger|
 |32|Rogueware/scareware|
 |33|Cryptojacking|
+|34|Worm vs virus|
+|35|Ransomware|
