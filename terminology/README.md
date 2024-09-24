@@ -24,3 +24,4 @@
 |17|Cyber Kill Chain||<img src="https://i.imgur.com/UCJrI2o.png">|
 |18|Banner Grabbing|
 |19|exploit-db|
+|20|Metasploit|
