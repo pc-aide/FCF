@@ -23,7 +23,6 @@
 |16|Mitre Att&CK-Knowledge|
 |17|Cyber Kill Chain||<img src="https://i.imgur.com/UCJrI2o.png">|
 |18|Banner Grabbing|
-|19|exploit-db|
-|20|Metasploit|
-|21|Veil Framework|
-|22|nmap|
+|19|Metasploit|
+|20|nmap|
+|21|Weaponization|1. maltegoweb app<br/>2. cain & abel<br/>3. Veil Framework<br/>4, exploit-db<br/>5. wapiti<br/>6. fratrat|
