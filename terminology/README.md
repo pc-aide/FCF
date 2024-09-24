@@ -37,3 +37,4 @@
 |30|dll injection|
 |31|keylogger|
 |32|Rogueware/scareware|
+|33|Cryptojacking|
