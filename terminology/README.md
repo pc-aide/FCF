@@ -21,3 +21,4 @@
 |14|Categories of hackers|White hat<br/>Black hat<br/>Grey hat<br/>Blue hat|<img src="https://i.imgur.com/dsaAut7.png">|
 |15|CVSS|CVSS is an example of open-source intelligence (OSINT)|
 |16|Mitre Att&CK-Knowledge|
+|17|Cyber Kill Chain||<img src="https://i.imgur.com/UCJrI2o.png">|
