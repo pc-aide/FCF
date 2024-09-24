@@ -23,3 +23,4 @@
 |16|Mitre Att&CK-Knowledge|
 |17|Cyber Kill Chain||<img src="https://i.imgur.com/UCJrI2o.png">|
 |18|Banner Grabbing|
+|19|exploit-db|
