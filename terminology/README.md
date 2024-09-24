@@ -36,3 +36,4 @@
 |29|browser hijacker|
 |30|dll injection|
 |31|keylogger|
+|32|Rogueware/scareware|
