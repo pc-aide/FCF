@@ -25,3 +25,5 @@
 |18|Banner Grabbing|
 |19|exploit-db|
 |20|Metasploit|
+|21|Veil Framework|
+|22|nmap|
