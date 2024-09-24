@@ -32,3 +32,4 @@
 |25|Baiting attack|
 |26|Ronald kessler's moscow|
 |27|Reverse shell|
+|28|Physical & digital threat vectiors|1. Dumpster diving<br/>2. shoulder surfing<br/>3. tailgating<br/>4. Eavesdropping<br/>5. 
