@@ -35,3 +35,4 @@
 |28|IDaaS|Identity-as-a-Service|
 |29|SASE|Secure Access Service Edge|
 |30|CVSS|Common Vulnerability Scoring System|
+|31|IoC|Indicators of Compromise|
