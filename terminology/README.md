@@ -31,3 +31,4 @@
 |24|Social Engineering|1. Spear fishing<br/>2. Whale phising<br/>3. Smishing<br/>4. Vishing|
 |25|Baiting attack|
 |26|Ronald kessler's moscow|
+|27|Reverse shell|
